@@ -1,5 +1,3 @@
-Homework 0!
-
 This is the starting readme for this assignment. Please edit the following information by removing the "edit me" and replace it with appropriate information your assignment. If it is asking you a question, please provide a response. 
 
     Name: edit me
@@ -10,7 +8,7 @@ This is the starting readme for this assignment. Please edit the following infor
     Did you use any external resources? (Cite them below)
         edit me
 
-For Homework 0, don't forget to include the screenshots in your repository in .png or .pdf format!
+Don't forget to include the screenshots in your repository in .png format!
 
 Logistics
 For this assignment (and every assignment/lab), you must login into the servers through your_khoury_name@login.khoury.northeastern.edu to complete and test your work. The reason is that this is a consistent architecture where your submission will be graded.
